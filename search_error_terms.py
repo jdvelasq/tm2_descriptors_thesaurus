@@ -33,7 +33,7 @@ for file in files:
             keywords = keywords.union(words)
 
 
-error_terms = set(word for word in keywords if word.endswith("ERROR"))
+error_terms = set(word for word in keywords if "ERROR" in word)
 n_new = len(error_terms)
 
 
