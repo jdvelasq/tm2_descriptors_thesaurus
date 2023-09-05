@@ -50,8 +50,10 @@ found_keywords = [word for word in found_keywords if len(word) > 3]
 found_keywords = [word for word in found_keywords if "<" not in word]
 found_keywords = [word for word in found_keywords if word[0] not in "0123456789"]
 
-for word in sorted(found_keywords)[-20:]:
+for word in sorted(found_keywords)[-5:]:
     print(word)
+
+print("---> " + str(n_new))
 
 with open("hypened_words.txt", "w") as f:
     for word in sorted(found_keywords):
