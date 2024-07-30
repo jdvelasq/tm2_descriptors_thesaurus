@@ -1,4 +1,7 @@
+4OR
+@GRH
 AAPG Bulletin
+"AAPP Atti della Accademia Peloritana dei Pericolanti, Classe di Scienze Fisiche, Matematiche e Naturali"
 ABAC Journal
 ACM Communications in Computer Algebra
 ACM Computing Surveys
@@ -6,6 +9,43 @@ ACM Inroads
 ACM International Conference Proceeding Series
 ACM Journal on Emerging Technologies in Computing Systems
 ACM SIGBED Review
+ACM Transactions on Accessible Computing
+ACM Transactions on Applied Perception
+ACM Transactions on Asian and Low-Resource Language Information Processing
+ACM Transactions on Autonomous and Adaptive Systems
+ACM Transactions on Computation Theory
+ACM Transactions on Computational Logic
+ACM Transactions on Computer Systems
+ACM Transactions on Computer-Human Interaction
+ACM Transactions on Computing Education
+ACM Transactions on Computing for Healthcare
+ACM Transactions on Cyber-Physical Systems
+ACM Transactions on Database Systems
+ACM Transactions on Design Automation of Electronic Systems
+ACM Transactions on Economics and Computation
+ACM Transactions on Graphics
+ACM Transactions on Human-Robot Interaction
+ACM Transactions on Information Systems
+ACM Transactions on Intelligent Systems and Technology
+ACM Transactions on Interactive Intelligent Systems
+ACM Transactions on Internet Technology
+ACM Transactions on Internet of Things
+ACM Transactions on Knowledge Discovery from Data
+ACM Transactions on Management Information Systems
+ACM Transactions on Mathematical Software
+ACM Transactions on Modeling and Computer Simulation
+ACM Transactions on Modeling and Performance Evaluation of Computing Systems
+"ACM Transactions on Multimedia Computing, Communications and Applications"
+ACM Transactions on Parallel Computing
+ACM Transactions on Privacy and Security
+ACM Transactions on Programming Languages and Systems
+ACM Transactions on Reconfigurable Technology and Systems
+ACM Transactions on Sensor Networks
+ACM Transactions on Software Engineering and Methodology
+ACM Transactions on Spatial Algorithms and Systems
+ACM Transactions on Storage
+ACM Transactions on the Web
+ACRN Journal of Finance and Risk Perspectives
 ACS Applied Energy Materials
 ACS Energy Letters
 ACS Physical Chemistry Au
@@ -34,6 +74,29 @@ Academia Economic Papers
 Academia Revista Latinoamericana de Administracion
 Academic Journal of Interdisciplinary Studies
 Academica Turistica
+Academy of Management Annals
+Academy of Management Discoveries
+Academy of Management Journal
+Academy of Management Learning and Education
+Academy of Management Perspectives
+Academy of Management Review
+Accounting Education
+Accounting Forum
+Accounting Historians Journal
+Accounting History
+Accounting History Review
+Accounting Horizons
+Accounting Perspectives
+Accounting Research Journal
+Accounting Review
+Accounting and Business Research
+Accounting and Finance
+Accounting and the Public Interest
+Accounting in Europe
+"Accounting, Auditing and Accountability Journal"
+"Accounting, Economics and Law: A Convivium"
+"Accounting, Finance, Sustainability, Governance and Fraud"
+"Accounting, Organizations and Society"
 Acta Acustica
 Acta Commercii
 Acta Cybernetica
@@ -60,6 +123,7 @@ Advanced Biomedical Engineering
 Advanced Composites Bulletin
 Advanced Control for Applications: Engineering and Industrial Systems
 Advanced Energy Materials
+Advanced Engineering Informatics
 Advanced Intelligent Systems
 Advanced Manufacturing: Polymer and Composites Science
 Advanced Modeling and Simulation in Engineering Sciences
@@ -70,6 +134,8 @@ Advanced Sciences and Technologies for Security Applications
 Advanced Series in Management
 Advanced Sustainable Systems
 Advances and Applications in Bioinformatics and Chemistry
+Advances in Accounting
+Advances in Accounting Education: Teaching and Curriculum Innovations
 Advances in Aerodynamics
 Advances in Applied Energy
 Advances in Artificial Intelligence and Machine Learning
@@ -83,19 +149,26 @@ Advances in Data Analysis and Classification
 Advances in Decision Sciences
 Advances in Developing Human Resources
 Advances in Distributed Computing and Artificial Intelligence Journal
+Advances in Econometrics
 Advances in Electrical and Computer Engineering
+Advances in Engineering Software
+Advances in Environmental Accounting and Management
 Advances in Environmental Technology
 Advances in Geo-Energy Research
 Advances in Hospitality and Leisure
 Advances in Hospitality and Tourism Research
 Advances in Human-Computer Interaction
+Advances in Management Accounting
 Advances in Mathematics of Communications
 Advances in Mergers and Acquisitions
 Advances in Multimedia (discontinued)
+Advances in Operations Research
 Advances in Parallel Computing
 Advances in Production Engineering And Management
+Advances in Public Interest Accounting
 Advances in Research on Russian Business and Management
 Advances in Science and Technology Research Journal
+"Advances in Science, Technology and Innovation"
 Advances in Taxation
 Advances in Technology Innovation
 Aestimum
@@ -105,6 +178,10 @@ African Finance Journal
 African Journal of Agricultural and Resource Economics
 African Journal of Business and Economic Research
 African Journal of Economic and Management Studies
+"African Journal of Hospitality, Tourism and Leisure"
+"African Journal of Research in Mathematics, Science and Technology Education"
+"African Journal of Science, Technology, Innovation and Development"
+Afro-Asian Journal of Finance and Accounting
 AgBioForum
 Agraris
 Agrekon
@@ -122,6 +199,7 @@ Agris On-line Papers in Economics and Informatics
 Agroalimentaria
 Agroecology and Sustainable Food Systems
 Agua y Territorio
+"Aibi, Revista de Investigacion Administracion e Ingenierias"
 Algorithmic Finance
 Algorithmica
 Algorithms
@@ -145,15 +223,19 @@ American Journal of Mathematical and Management Sciences
 American Law and Economics Review
 American Review of Public Administration
 American Statistician
+"American economist, The"
+"American, British and Canadian Studies"
 Amfiteatru Economic
 Analog Integrated Circuits and Signal Processing
 Animal Biotelemetry
 Annales Mathematicae et Informaticae
 Annales de l'institut Henri Poincare (B) Probability and Statistics
+Annals of Actuarial Science
 Annals of Applied Probability
 Annals of Applied Sport Science
 Annals of Applied Statistics
 Annals of Corporate Governance
+Annals of Data Science
 Annals of Economics and Finance
 Annals of Economics and Statistics
 Annals of Emerging Technologies in Computing
@@ -165,14 +247,17 @@ Annals of Library and Information Studies
 Annals of Mathematics
 Annals of Mathematics and Artificial Intelligence
 Annals of Nuclear Energy
+Annals of Operations Research
 Annals of Probability
 Annals of Public and Cooperative Economics
 Annals of Statistics
 Annals of Tourism Research
 Annals of Tourism Research Empirical Insights
 Annals of the Fondazione Luigi Einaudi
+"Annals of the University of Craiova, Mathematics and Computer Science Series"
 Annual International Conference of the IEEE Engineering in Medicine and Biology - Proceedings
 Annual Review of Chemical and Biomolecular Engineering
+"Annual Review of Control, Robotics, and Autonomous Systems"
 Annual Review of CyberTherapy and Telemedicine
 Annual Review of Economics
 Annual Review of Financial Economics
@@ -191,6 +276,8 @@ Applied Computational Intelligence and Soft Computing
 Applied Computer Science
 Applied Computing and Geosciences
 Applied Computing and Informatics
+Applied Econometrics
+Applied Econometrics and International Development
 Applied Economic Analysis
 Applied Economic Perspectives and Policy
 Applied Economics
@@ -228,11 +315,13 @@ Argument and Computation
 Argumenta Oeconomica
 Array
 Art of Discrete and Applied Mathematics
+"Art, Science, and Engineering of Programming"
 Arthaniti: Journal of Economic Theory and Practice
 Artifact
 Artificial Intelligence
 Artificial Intelligence Review
 Artificial Intelligence and Law
+"Artificial Intelligence for Engineering Design, Analysis and Manufacturing: AIEDAM"
 Artificial Intelligence in Agriculture
 Artificial Intelligence in Geosciences
 Artificial Intelligence in Medicine
@@ -252,6 +341,7 @@ Asia Pacific Management Review
 Asia and the Pacific Policy Studies
 Asia-Pacific Economic History Review
 Asia-Pacific Financial Markets
+Asia-Pacific Journal of Accounting and Economics
 Asia-Pacific Journal of Business Administration
 Asia-Pacific Journal of Chemical Engineering
 Asia-Pacific Journal of Financial Studies
@@ -260,6 +350,8 @@ Asia-Pacific Journal of Operational Research
 Asia-Pacific Journal of Regional Science
 Asia-Pacific Review
 Asia-Pacific Social Science Review
+Asian Academy of Management Journal
+Asian Academy of Management Journal of Accounting and Finance
 Asian Affairs
 Asian Business and Management
 Asian Case Research Journal
@@ -270,14 +362,17 @@ Asian Economic Papers
 Asian Economic Policy Review
 Asian Economic and Financial Review
 Asian International Studies Review
+Asian Journal of Accounting Research
 Asian Journal of Business Ethics
 Asian Journal of Business Research
+Asian Journal of Business and Accounting
 Asian Journal of Economic Modelling
 Asian Journal of Law and Economics
 Asian Journal of Management Cases
 Asian Journal of Shipping and Logistics
 Asian Journal of Technology Innovation
 Asian Journal of WTO and International Health Law and Policy
+Asian Review of Accounting
 Asian Review of Financial Research
 Asian Textile Journal
 Asian-Pacific Economic Literature
@@ -289,10 +384,12 @@ AtoZ
 Atom Indonesia
 Atomic Energy
 Auditing
+"Australasian Accounting, Business and Finance Journal"
 Australasian Journal of Engineering Education
 Australasian Journal of Information Systems
 Australasian Journal of Regional Studies
 Australasian Marketing Journal
+Australian Accounting Review
 Australian Economic Papers
 Australian Economic Review
 Australian Educational Computing
@@ -333,6 +430,7 @@ Banks and Bank Systems
 Basic Income Studies
 Batteries
 Batteries and Supercaps
+Behavioral Research in Accounting
 Behavioral Science and Policy
 Behaviour and Information Technology
 Beijing Youdian Xueyuan Xuebao/Journal of Beijing University of Posts And Telecommunications
@@ -342,6 +440,11 @@ Betonwerk und Fertigteil-Technik/Concrete Precasting Plant and Technology
 Betriebswirtschaftliche Forschung und Praxis
 Bezopasnost' Truda v Promyshlennosti
 Bibliothecae.it
+Big Data
+Big Data Mining and Analytics
+Big Data Research
+Big Data and Cognitive Computing
+Big Data and Society
 Big Earth Data
 Bio-Algorithms and Med-Systems
 Bio-based and Applied Economics
@@ -350,6 +453,7 @@ BioProducts Business
 Bioenergy Research
 Biofuel Research Journal
 Biofuels
+"Biofuels, Bioproducts and Biorefining"
 Bioinformatics
 Bioinformatics Advances
 Bioinformatics and Biology Insights
@@ -373,6 +477,7 @@ Biotechnology for Biofuels and Bioproducts
 Blasting
 Blockchain in Healthcare Today
 Blockchain: Research and Applications
+"Body, Space and Technology"
 Boletin de Estadistica e Investigacion Operativa
 Borsa Istanbul Review
 Bottom Line
@@ -382,6 +487,7 @@ Brazilian Business Review
 Brazilian Journal of Operations and Production Management
 Brazilian Journal of Political Economy
 Briefings in Bioinformatics
+British Accounting Review
 British Actuarial Journal
 British Food Journal
 British Journal of Industrial Relations
@@ -398,10 +504,15 @@ Bulletin of Electrical Engineering and Informatics
 Bulletin of Indonesian Economic Studies
 Bulletin of Mathematical Biology
 Bulletin of Monetary Economics and Banking
+"Bulletin of Science, Technology and Society"
 Bulletin of TICMI
 Bulletin of the Polish Academy of Sciences: Technical Sciences
+"Bulletin of the South Ural State University, Series: Mathematical Modelling, Programming and Computer Software"
+"Bulletin of the Tomsk Polytechnic University, Geo Assets Engineering"
+"Bulletin of the Transilvania University of Brasov, Series III: Mathematics and Computer Science"
 Business Economics
 Business Ethics Quarterly
+"Business Ethics, Environment and Responsibility"
 Business History
 Business History Review
 Business Horizons
@@ -421,6 +532,7 @@ Business and Professional Communication Quarterly
 Business and Professional Ethics Journal
 Business and Society
 Business and Society Review
+"Business, Management and Economics Engineering"
 Business: Theory and Practice
 CAAI Transactions on Intelligence Technology
 CAAI Transactions on Intelligent Systems
@@ -437,14 +549,17 @@ CESifo Economic Studies
 CESifo Forum
 CEUR Workshop Proceedings
 CIGRE Science and Engineering
+"CIRIEC-Espana Revista de Economia Publica, Social y Cooperativa"
 CLEI Eletronic Journal (CLEIej)
 CMES - Computer Modeling in Engineering and Sciences
 COMPEL - The International Journal for Computation and Mathematics in Electrical and Electronic Engineering
 CONCAWE Reports
 CSEE Journal of Power and Energy Systems
+"CTyF - Ciencia, Tecnologia y Futuro"
 California Management Review
 Calphad: Computer Coupling of Phase Diagrams and Thermochemistry
 Cambridge Journal of Economics
+"Cambridge Journal of Regions, Economy and Society"
 Canadian Conference on Electrical and Computer Engineering
 Canadian Journal of Administrative Sciences
 Canadian Journal of Agricultural Economics
@@ -473,6 +588,7 @@ Cell Reports Methods
 Cell Reports Physical Science
 Central Bank Review
 Central European Business Review
+Central European Journal of Economic Modelling and Econometrics
 Central European Journal of Operations Research
 Central European Journal of Sport Sciences and Medicine
 Central European Management Journal
@@ -497,6 +613,8 @@ China Economist
 China Finance Review International
 China Finance and Economic Review
 China Information
+China Journal of Accounting Research
+China Journal of Accounting Studies
 China Journal of Economics
 China Nonprofit Review
 China Ocean Engineering
@@ -515,9 +633,12 @@ Chinese Journal of Urban and Environmental Studies
 Chinese Journal on Internet of Things
 Chinese Management Studies
 Chongqing Daxue Xuebao/Journal of Chongqing University
+"Circuits, Systems, and Signal Processing"
 Circular Economy
 Circular Economy and Sustainability
 Cities
+"Citizenship, Social and Economics Education"
+"City, Culture and Society"
 Clean Coal Technology
 Clean Energy
 Clean Technologies and Environmental Policy
@@ -537,6 +658,7 @@ Coal Conversion
 Cogent Business and Management
 Cogent Economics and Finance
 Cogent Engineering
+"Cognition, Technology and Work"
 Cognitive Computation
 Cognitive Computation and Systems
 Cognitive Processing
@@ -552,10 +674,12 @@ Combinatorics Probability and Computing
 Combustion Science and Technology
 Combustion Theory and Modelling
 Combustion and Flame
+"Combustion, Explosion and Shock Waves"
 CommIT Journal
 Communication Research and Practice
 Communication Today
 Communication and Management
+"Communication, Culture and Critique"
 Communications - Scientific Letters of the University of Zilina
 Communications for Statistical Applications and Methods
 Communications in Analysis and Geometry
@@ -657,6 +781,7 @@ Computers and Geotechnics
 Computers and Graphics
 Computers and Industrial Engineering
 Computers and Mathematics with Applications
+Computers and Operations Research
 Computers and Security
 Computers and Structures
 Computers in Biology and Medicine
@@ -666,6 +791,7 @@ Computers in Human Behavior Reports
 Computers in Industry
 Computers in Libraries
 Computers in the Schools
+"Computers, Materials and Continua"
 Computing (Vienna/New York)
 Computing and Informatics
 Computing and Software for Big Science
@@ -676,6 +802,7 @@ Comunicacoes Geologicas
 Concurrency Computation Practice and Experience
 Concurrent Engineering Research and Applications
 Conference Record - International Conference on Communications
+"Conference Record of the Asilomar Conference on Signals, Systems and Computers"
 Conflict Management and Peace Science
 Connection Science
 Connections
@@ -688,6 +815,7 @@ Constructivist Foundations
 Consumer Behavior in Tourism and Hospitality
 Consumption Markets and Culture
 Contaduria y Administracion
+Contemporary Accounting Research
 Contemporary Chinese Political Economy and Strategic Relations
 Contemporary Economic Policy
 Contemporary Economics
@@ -720,7 +848,9 @@ Creativity and Innovation Management
 Credit and Capital Markets
 Critical Finance Review
 Critical Military Studies
+Critical Perspectives on Accounting
 Critical Perspectives on International Business
+"Critical Studies on Corporate Responsibility, Governance and Sustainability"
 Croatian Economic Survey
 Croatian Operational Research Review
 Cross Cultural and Strategic Management
@@ -749,6 +879,7 @@ Cybernetics and Information Technologies
 Cybernetics and Physics
 Cybernetics and Systems
 Cybernetics and Systems Analysis
+"Cyberpsychology, Behavior, and Social Networking"
 Cybersecurity
 Cyborg and Bionic Systems
 Cyprus Review
@@ -761,6 +892,10 @@ Data Analysis and Knowledge Discovery
 Data Base for Advances in Information Systems
 Data Intelligence
 Data Mining and Knowledge Discovery
+Data Science
+Data Science Journal
+Data Science and Engineering
+Data Science and Management
 Data Technologies and Applications
 Data and Information Management
 Data and Knowledge Engineering
@@ -787,6 +922,7 @@ Design Issues
 Design Journal
 Design Studies
 Designs for Learning
+"Designs, Codes, and Cryptography"
 Developing Economies
 Development Engineering
 Development and Learning in Organizations
@@ -812,6 +948,7 @@ Digital Government: Research and Practice
 Digital Health
 Digital Humanities Quarterly
 Digital Library Perspectives
+"Digital Policy, Regulation and Governance"
 Digital Scholarship in the Humanities
 Digital Signal Processing: A Review Journal
 Digital Studies/ Le Champ Numerique
@@ -852,10 +989,12 @@ EAI/Springer Innovations in Communication and Computing
 EC Tax Review
 ECONOMICS
 ECTI Transactions on Computer and Information Technology
+"ECTI Transactions on Electrical Engineering, Electronics, and Communications"
 EDPACS
 EEAG Report on the European Economy
 EMJ - Engineering Management Journal
 ENR (Engineering News-Record)
+EPJ Data Science
 EPJ Nuclear Sciences and Technologies
 EPJ Photovoltaics
 EPRI Journal
@@ -876,10 +1015,14 @@ Ecological Economics
 Ecological Indicators
 Ecological Informatics
 Ecological Psychology
+"Ecology, Economy and Society"
 Econ Journal Watch
 Econometric Reviews
 Econometric Theory
 Econometrica
+Econometrics
+Econometrics Journal
+Econometrics and Statistics
 EconomiA
 Economia
 Economia Agro-Alimentare
@@ -952,6 +1095,7 @@ Education Sciences
 Education and Training
 Education for Information
 Educational Administration: Theory and Practice
+"Educational Assessment, Evaluation and Accountability"
 Educational Management Administration and Leadership
 Edutec
 Egyptian Informatics Journal
@@ -990,6 +1134,7 @@ Electronic Library
 Electronic Markets
 Electronic News
 Electronic Notes in Theoretical Computer Science
+"Electronic Proceedings in Theoretical Computer Science, EPTCS"
 Electronics (Switzerland)
 Electronics and Communications in Japan
 Emerald Emerging Markets Case Studies
@@ -1028,6 +1173,8 @@ Energy Reports
 Energy Research Letters
 Energy Research and Social Science
 Energy Science and Engineering
+"Energy Sources, Part A: Recovery, Utilization and Environmental Effects"
+"Energy Sources, Part B: Economics, Planning and Policy"
 Energy Storage
 Energy Storage Materials
 Energy Strategy Reviews
@@ -1041,6 +1188,9 @@ Energy and Environment
 Energy and Environmental Materials
 Energy and Environmental Science
 Energy for Sustainable Development
+"Energy, Ecology and Environment"
+"Energy, Environment, and Sustainability"
+"Energy, Sustainability and Society"
 EnergyChem
 Engineered Science
 Engineering
@@ -1053,8 +1203,11 @@ Engineering Management in Production and Services
 Engineering Optimization
 Engineering Project Organization Journal
 Engineering Reports
+"Engineering Science and Technology, an International Journal"
 Engineering and Applied Science Research
 Engineering with Computers
+"Engineering, Construction and Architectural Management"
+"Engineering, Technology and Applied Science Research"
 Enlightening Tourism
 Ensayos Sobre Politica Economica
 Enterprise Information Systems
@@ -1070,6 +1223,7 @@ Entreprises et Histoire
 Entropy
 Environment
 Environment and Development Economics
+"Environment, Development and Sustainability"
 Environmental Economics
 Environmental Economics and Policy Studies
 Environmental Footprints and Eco-Design of Products and Processes
@@ -1077,11 +1231,13 @@ Environmental Innovation and Societal Transitions
 Environmental Modelling and Software
 Environmental Progress and Sustainable Energy
 Environmental Research Letters
+"Environmental Research, Engineering and Management"
 Environmental Science and Engineering
 Environmental and Climate Technologies
 Environmental and Ecological Statistics
 Environmental and Resource Economics
 Environments - MDPI
+"Equality, Diversity and Inclusion"
 Equilibrium. Quarterly Journal of Economics and Economic Policy
 Erasmus Journal for Philosophy and Economics
 Estonian Discussions on Economic Policy
@@ -1107,6 +1263,7 @@ EuroMed Journal of Business
 Euroheat and Power (English Edition)
 Euroheat and Power/Fernwarme International
 Europe-Asia Studies
+European Accounting Review
 European Actuarial Journal
 European Business Organization Law Review
 European Business Review
@@ -1121,6 +1278,7 @@ European Journal of Combinatorics
 European Journal of Comparative Economics
 European Journal of Economics and Economic Policies: Intervention
 European Journal of Family Business
+European Journal of Finance
 European Journal of Futures Research
 European Journal of Government and Economics
 European Journal of Health Economics
@@ -1148,6 +1306,7 @@ European Research on Management and Business Economics
 European Review of Agricultural Economics
 European Review of Economic History
 European Sport Management Quarterly
+"European Studies: The Review of European Law, Economics and Politics"
 European Taxation
 Evaluation and Program Planning
 Event Management
@@ -1166,6 +1325,7 @@ FIIB Business Review
 Fabriksoftware
 Family Business Review
 Fashion and Textiles
+"Fashion, Style and Popular Culture"
 Federal Reserve Bank of St. Louis Review
 Feminist Economics
 Fibres and Textiles in Eastern Europe
@@ -1183,6 +1343,7 @@ Financial History Review
 Financial Innovation
 Financial Management
 Financial Markets and Portfolio Management
+"Financial Markets, Institutions and Instruments"
 Financial Review
 Financial and Credit Activity: Problems of Theory and Practice
 FinanzArchiv
@@ -1207,9 +1368,12 @@ Formal Methods in System Design
 Formation Emploi
 Forum Scientiae Oeconomia
 Forum for Health Economics and Policy
+"Forum for Social Economics, The"
+Foundations and Trends in Accounting
 Foundations and Trends in Communications and Information Theory
 Foundations and Trends in Computer Graphics and Vision
 Foundations and Trends in Databases
+Foundations and Trends in Econometrics
 Foundations and Trends in Electric Energy Systems
 Foundations and Trends in Electronic Design Automation
 Foundations and Trends in Entrepreneurship
@@ -1222,13 +1386,16 @@ Foundations and Trends in Marketing
 Foundations and Trends in Microeconomics
 Foundations and Trends in Programming Languages
 Foundations and Trends in Signal Processing
+"Foundations and Trends in Technology, Information and Operations Management"
 Foundations and Trends in Web Science
 Foundations of Computational Mathematics
 Foundations of Computing and Decision Sciences
+Foundations of Data Science
 Foundations of Management
 Foundry Trade Journal International
 Frontiers in Artificial Intelligence
 Frontiers in Artificial Intelligence and Applications
+Frontiers in Big Data
 Frontiers in Communications and Networks
 Frontiers in Computer Science
 Frontiers in Digital Health
@@ -1285,6 +1452,7 @@ Gaoya Dianqi/High Voltage Apparatus
 Gas Science and Engineering
 Gedrag en Organisatie
 Gender in Management
+"Gender, Work and Organization"
 Genetic Engineering and Biotechnology News
 Genetic Programming and Evolvable Machines
 Geneva Papers on Risk and Insurance: Issues and Practice
@@ -1334,11 +1502,13 @@ Green Processing and Synthesis
 Grey Systems
 Group Decision and Negotiation
 Group and Organization Management
+"Groups, Complexity, Cryptology"
 Gruppe. Interaktion. Organisation. Zeitschrift fur Angewandte Organisationspsychologie
 Gyroscopy and Navigation
 HSE Economic Journal
 Habitat Sustentable
 Hacienda Publica Espanola
+Handbook of Econometrics
 Handbook of Industrial Organization
 Harbin Gongcheng Daxue Xuebao/Journal of Harbin Engineering University
 Hart's E and P
@@ -1351,6 +1521,7 @@ Health Systems
 Hedongli Gongcheng/Nuclear Power Engineering
 Hejubian Yu Dengliziti Wuli/Nuclear Fusion and Plasma Physics
 Hellenic Journal of Radiology
+"Herald of the Bauman Moscow State Technical University, Series Natural Sciences"
 Heritage Science
 Heritage and Sustainable Development
 High Power Laser Science and Engineering
@@ -1371,7 +1542,7 @@ Horticultural Plant Journal
 Hospitality and Society
 Hotel Management
 Howard Journal of Communications
-Huazhong Keji Daxue Xuebao (Ziran Kexue Ban)/Journal of Huazhong University of Science and Technology (Natural Science Edition)
+Huazhong Keji Daxue Xuebao (Ziran Kexue Ban)/Journal of Huazhong University of Science and Technology (Natural
 Human Behavior and Emerging Technologies
 Human Performance
 Human Relations
@@ -1382,6 +1553,7 @@ Human Resource Management
 Human Resource Management International Digest
 Human Resource Management Journal
 Human Resource Management Review
+"Human Service Organizations Management, Leadership and Governance"
 Human Systems Management
 Human Technology
 Human-Computer Interaction
@@ -1398,6 +1570,7 @@ IAES International Journal of Artificial Intelligence
 IBIMA Business Review
 IBM Journal of Research and Development
 ICIC Express Letters
+"ICIC Express Letters, Part B: Applications"
 ICSID Review
 ICT Express
 IEEE AFRICON Conference
@@ -1446,6 +1619,7 @@ IEEE Pervasive Computing
 IEEE Potentials
 IEEE Power Electronics Magazine
 IEEE Power and Energy Magazine
+"IEEE Region 10 Annual International Conference, Proceedings/TENCON"
 IEEE Robotics and Automation Letters
 IEEE Robotics and Automation Magazine
 IEEE Security and Privacy
@@ -1456,6 +1630,8 @@ IEEE Systems Journal
 IEEE Transactions on Affective Computing
 IEEE Transactions on Artificial Intelligence
 IEEE Transactions on Automatic Control
+IEEE Transactions on Big Data
+"IEEE Transactions on Biometrics, Behavior, and Identity Science"
 IEEE Transactions on Circuits and Systems I: Regular Papers
 IEEE Transactions on Cloud Computing
 IEEE Transactions on Cognitive Communications and Networking
@@ -1489,6 +1665,7 @@ IEEE Transactions on Learning Technologies
 IEEE Transactions on Medical Imaging
 IEEE Transactions on Medical Robotics and Bionics
 IEEE Transactions on Mobile Computing
+"IEEE Transactions on Molecular, Biological, and Multi-Scale Communications"
 IEEE Transactions on Multimedia
 IEEE Transactions on Nanobioscience
 IEEE Transactions on Nanotechnology
@@ -1511,6 +1688,7 @@ IEEE Transactions on Smart Grid
 IEEE Transactions on Software Engineering
 IEEE Transactions on Sustainable Computing
 IEEE Transactions on Sustainable Energy
+"IEEE Transactions on Systems, Man, and Cybernetics: Systems"
 IEEE Transactions on Transportation Electrification
 IEEE Transactions on Vehicular Technology
 IEEE Transactions on Very Large Scale Integration (VLSI) Systems
@@ -1518,11 +1696,15 @@ IEEE Transactions on Visualization and Computer Graphics
 IEEE Transactions on Wireless Communications
 IEEE Vehicular Technology Conference
 IEEE Wireless Communications
+"IEEE/ACM International Conference on Computer-Aided Design, Digest of Technical Papers"
+IEEE/ACM Transactions on Audio Speech and Language Processing
+IEEE/ACM Transactions on Networking
 IEEE/ASME Transactions on Mechatronics
 IEEE/CAA Journal of Automatica Sinica
 IEEJ Journal of Industry Applications
 IEEJ Transactions on Power and Energy
 IEICE Transactions on Communications
+"IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences"
 IEICE Transactions on Information and Systems
 IEIE Transactions on Smart Processing and Computing
 IET Biometrics
@@ -1534,6 +1716,7 @@ IET Control Theory and Applications
 IET Cyber-Physical Systems: Theory and Applications
 IET Cyber-systems and Robotics
 IET Energy Systems Integration
+"IET Generation, Transmission and Distribution"
 IET Image Processing
 IET Information Security
 IET Networks
@@ -1587,6 +1770,7 @@ Indian Economic and Social History Review
 Indian Growth and Development Review
 Indian Journal of Corporate Governance
 Indian Journal of Economics and Development
+Indian Journal of Finance
 Indian Journal of Human Development
 Indian Journal of Labour Economics
 Indian Journal of Marketing
@@ -1674,6 +1858,7 @@ Insurance Markets and Companies
 Insurance: Mathematics and Economics
 Intangible Capital
 Integrated Computer-Aided Engineering
+"Integration, the VLSI Journal"
 Inteligencia Artificial
 Intellectual Economics
 Intelligence-Based Medicine
@@ -1684,6 +1869,7 @@ Intelligent Decision Technologies
 Intelligent Medicine
 Intelligent Service Robotics
 Intelligent Systems Reference Library
+"Intelligent Systems in Accounting, Finance and Management"
 Intelligent Systems with Applications
 Intelligent and Converged Networks
 Intelligenza Artificiale
@@ -1693,19 +1879,24 @@ Interaction Studies
 Interactions
 Interactive Learning Environments
 Interactive Technology and Smart Education
+"Interdisciplinary Journal of Information, Knowledge, and Management"
 Interdisciplinary Sciences - Computational Life Sciences
 Intereconomics
 Interfaces
 International Advances in Economic Research
 International Arab Journal of Information Technology
+"International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences - ISPRS Archives"
 International Atomic Energy Agency bulletin
 International Biomechanics
 International Business Review
+"International Conference Recent Advances in Natural Language Processing, RANLP"
+"International Conference on Application-Specific Systems, Architectures and Processors, Proceedings"
 International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS
 International Conference on Construction in the 21st Century
 International Conference on Digital Printing Technologies
 International Conference on Embedded Wireless Systems and Networks
 International Conference on ICT Convergence
+"International Conference on Nuclear Engineering, Proceedings, ICONE"
 International Conference on Quality Engineering and Management
 International Dyer and Finisher
 International Economic Journal
@@ -1714,6 +1905,7 @@ International Economics
 International Economics and Economic Policy
 International Energy Journal
 International Entrepreneurship and Management Journal
+"International Environmental Agreements: Politics, Law and Economics"
 International Finance
 International Food and Agribusiness Management Review
 International Game Theory Review
@@ -1724,6 +1916,10 @@ International Journal for Multiscale Computational Engineering
 International Journal for Numerical Methods in Biomedical Engineering
 International Journal for Numerical Methods in Fluids
 International Journal for Quality Research
+International Journal of Accounting
+International Journal of Accounting Information Systems
+International Journal of Accounting and Information Management
+"International Journal of Accounting, Auditing and Performance Evaluation"
 International Journal of Action Research
 International Journal of Ad Hoc and Ubiquitous Computing
 International Journal of Adaptive Control and Signal Processing
@@ -1750,6 +1946,7 @@ International Journal of Analysis and Applications
 International Journal of Applied Ceramic Technology
 International Journal of Applied Cryptography
 International Journal of Applied Decision Sciences
+"International Journal of Applied Economics, Finance and Accounting"
 International Journal of Applied Management Science
 International Journal of Applied Mathematics
 International Journal of Applied Mathematics and Computer Science
@@ -1771,6 +1968,7 @@ International Journal of Automotive Science and Technology
 International Journal of Automotive Technology and Management
 International Journal of Autonomous and Adaptive Communications Systems
 International Journal of Bank Marketing
+"International Journal of Banking, Accounting and Finance"
 International Journal of Bio-Inspired Computation
 International Journal of Biometrics
 International Journal of Biostatistics
@@ -1812,6 +2010,7 @@ International Journal of Communication Networks and Information Security
 International Journal of Communication Systems
 International Journal of Comparative Labour Law and Industrial Relations
 International Journal of Computational Biology and Drug Design
+International Journal of Computational Economics and Econometrics
 International Journal of Computational Fluid Dynamics
 International Journal of Computational Geometry and Applications
 International Journal of Computational Intelligence Systems
@@ -1841,6 +2040,7 @@ International Journal of Computer-Supported Collaborative Learning
 International Journal of Computerized Dentistry
 International Journal of Computers and Applications
 International Journal of Computers and their Applications
+"International Journal of Computers, Communications and Control"
 International Journal of Computing
 International Journal of Computing Science and Mathematics
 International Journal of Computing and Digital Systems
@@ -1850,6 +2050,7 @@ International Journal of Construction Supply Chain Management
 International Journal of Consumer Studies
 International Journal of Contemporary Hospitality Management
 International Journal of Control
+"International Journal of Control, Automation and Systems"
 International Journal of Cooperative Information Systems
 International Journal of Critical Computer-Based Systems
 International Journal of Critical Infrastructure Protection
@@ -1860,6 +2061,7 @@ International Journal of Customer Relationship Marketing and Management
 International Journal of Cyber Warfare and Terrorism
 International Journal of Data Analysis Techniques and Strategies
 International Journal of Data Mining and Bioinformatics
+"International Journal of Data Mining, Modelling and Management"
 International Journal of Data Science and Analytics
 International Journal of Data Warehousing and Mining
 International Journal of Data and Network Science
@@ -1867,6 +2069,7 @@ International Journal of Decision Support System Technology
 International Journal of Design
 International Journal of Development Issues
 International Journal of Development and Conflict
+International Journal of Digital Accounting Research
 International Journal of Digital Crime and Forensics
 International Journal of Digital Earth
 International Journal of Diplomacy and Economy
@@ -1917,6 +2120,7 @@ International Journal of Energy Sector Management
 International Journal of Energy Technology and Policy
 International Journal of Energy and Environmental Engineering
 International Journal of Energy for a Clean Environment
+"International Journal of Energy, Environment and Economics"
 International Journal of Engineering Business Management
 International Journal of Enterprise Information Systems
 International Journal of Enterprise Network Management
@@ -1927,12 +2131,15 @@ International Journal of Entrepreneurship and Innovation Management
 International Journal of Entrepreneurship and Small Business
 International Journal of Environment and Health
 International Journal of Environment and Sustainable Development
+"International Journal of Environment, Workplace and Employment"
 International Journal of Environmental Sustainability
+"International Journal of Environmental, Cultural, Economic and Social Sustainability"
 International Journal of Ethics and Systems
 International Journal of Euro-Mediterranean Studies
 International Journal of Event and Festival Management
 International Journal of Evidence Based Coaching and Mentoring
 International Journal of Exergy
+International Journal of Finance and Economics
 International Journal of Financial Studies
 International Journal of Forecasting
 International Journal of Foresight and Innovation Policy
@@ -1977,6 +2184,7 @@ International Journal of Humanoid Robotics
 International Journal of Hydrogen Energy
 International Journal of Image and Data Fusion
 International Journal of Image and Graphics
+"International Journal of Image, Graphics and Signal Processing"
 International Journal of Imaging Systems and Technology
 International Journal of Industrial Engineering and Management
 International Journal of Industrial Engineering and Production Research
@@ -2011,9 +2219,11 @@ International Journal of Innovation and Learning
 International Journal of Innovation and Sustainable Development
 International Journal of Innovation and Technology Management
 International Journal of Innovative Computing and Applications
+"International Journal of Innovative Computing, Information and Control"
 International Journal of Instructional Cases
 International Journal of Integrated Supply Management
 International Journal of Intellectual Property Management
+"International Journal of Intelligence, Security, and Public Affairs"
 International Journal of Intelligent Computing and Cybernetics
 International Journal of Intelligent Engineering and Systems
 International Journal of Intelligent Enterprise
@@ -2058,12 +2268,14 @@ International Journal of Management and Enterprise Development
 International Journal of Management and Sustainability
 International Journal of Management in Education
 International Journal of Managerial Finance
+International Journal of Managerial and Financial Accounting
 International Journal of Managing Projects in Business
 International Journal of Manpower
 International Journal of Manufacturing Research
 International Journal of Manufacturing Technology and Management
 International Journal of Market Research
 International Journal of Marketing Semiotics and Discourse Studies
+"International Journal of Mathematical, Engineering and Management Sciences"
 International Journal of Mathematics and Computer Science
 International Journal of Mathematics and Physics
 International Journal of Mathematics in Operational Research
@@ -2071,14 +2283,18 @@ International Journal of Mechanical Engineering and Robotics Research
 International Journal of Mechatronics and Applied Mechanics
 International Journal of Mechatronics and Automation
 International Journal of Medical Robotics and Computer Assisted Surgery
+"International Journal of Metadata, Semantics and Ontologies"
 International Journal of Microsimulation
 International Journal of Mining Science and Technology
+"International Journal of Mining, Reclamation and Environment"
 International Journal of Mobile Computing and Multimedia Communications
 International Journal of Mobile Human Computer Interaction
 International Journal of Mobile Learning and Organisation
 International Journal of Mobile Network Design and Innovation
 International Journal of Mobile and Blended Learning
+"International Journal of Modeling, Simulation, and Scientific Computing"
 International Journal of Modelling and Simulation
+"International Journal of Modelling, Identification and Control"
 International Journal of Modern Education and Computer Science
 International Journal of Modern Physics C
 International Journal of Molecular Sciences
@@ -2092,6 +2308,8 @@ International Journal of Networking and Virtual Organisations
 International Journal of Neural Systems
 International Journal of Nuclear Energy Science and Technology
 International Journal of Nuclear Security
+"International Journal of Numerical Modelling: Electronic Networks, Devices and Fields"
+"International Journal of Oil, Gas and Coal Technology"
 International Journal of Open Source Software and Processes
 International Journal of Operational Research
 International Journal of Operations Research and Information Systems
@@ -2101,6 +2319,7 @@ International Journal of Organization Theory and Behavior
 International Journal of Organizational Analysis
 International Journal of Organizational Diversity
 International Journal of Parallel Programming
+"International Journal of Parallel, Emergent and Distributed Systems"
 International Journal of Pattern Recognition and Artificial Intelligence
 International Journal of Pervasive Computing and Communications
 International Journal of Pharmaceutical and Healthcare Marketing
@@ -2138,6 +2357,7 @@ International Journal of RF and Microwave Computer-Aided Engineering
 International Journal of Reasoning-based Intelligent Systems
 International Journal of Reconfigurable Computing
 International Journal of Reconfigurable and Embedded Systems
+"International Journal of Reliability, Quality and Safety Engineering"
 International Journal of Reliable and Quality E-Healthcare
 International Journal of Religious Tourism and Pilgrimage
 International Journal of Renewable Energy Development
@@ -2153,10 +2373,14 @@ International Journal of Security and Networks
 International Journal of Selection and Assessment
 International Journal of Semantic Computing
 International Journal of Sensor Networks
+"International Journal of Sensors, Wireless Communications and Control"
 International Journal of Serious Games
+"International Journal of Service Science, Management, Engineering, and Technology"
 International Journal of Services Operations and Informatics
 International Journal of Services and Operations Management
 International Journal of Services and Standards
+"International Journal of Services, Economics and Management"
+"International Journal of Services, Technology and Management"
 International Journal of Shipping and Transport Logistics
 International Journal of Simulation Modelling
 International Journal of Simulation and Process Modelling
@@ -2196,6 +2420,7 @@ International Journal of Systems Assurance Engineering and Management
 International Journal of Systems Science
 International Journal of Systems Science: Operations and Logistics
 International Journal of Technoentrepreneurship
+"International Journal of Technological Learning, Innovation and Development"
 International Journal of Technologies in Learning
 International Journal of Technology
 International Journal of Technology Enhanced Learning
@@ -2205,6 +2430,8 @@ International Journal of Technology Management and Sustainable Development
 International Journal of Technology Marketing
 International Journal of Technology and Globalisation
 International Journal of Technology and Human Interaction
+"International Journal of Technology, Knowledge and Society"
+"International Journal of Technology, Policy and Management"
 International Journal of Telemedicine and Applications
 International Journal of Telerehabilitation
 International Journal of Theoretical and Applied Finance
@@ -2214,11 +2441,14 @@ International Journal of Tourism Policy
 International Journal of Tourism Research
 International Journal of Trade and Global Markets
 International Journal of Training and Development
+"International Journal of Turbomachinery, Propulsion and Power"
+"International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems"
 International Journal of Unconventional Computing
 International Journal of Value Chain Management
 International Journal of Vehicle Information and Communication Systems
 International Journal of Vehicle Performance
 International Journal of Virtual and Personal Learning Environments
+"International Journal of Wavelets, Multiresolution and Information Processing"
 International Journal of Web Based Communities
 International Journal of Web Engineering and Technology
 International Journal of Web Information Systems
@@ -2239,9 +2469,11 @@ International Journal of eBusiness and eGovernment Studies
 International Journal of the Analytic Hierarchy Process
 International Journal of the Economics of Business
 International Journal of the Legal Profession
+"International Journal on Advanced Science, Engineering and Information Technology"
 International Journal on Artificial Intelligence Tools
 International Journal on Communications Antenna and Propagation
 International Journal on Document Analysis and Recognition
+"International Journal on E-Learning: Corporate, Government, Healthcare, and Higher Education"
 International Journal on Energy Conversion
 International Journal on Engineering Applications
 International Journal on Food System Dynamics
@@ -2271,6 +2503,8 @@ International Review of Environmental and Resource Economics
 International Review of Finance
 International Review of Financial Analysis
 International Review of Law and Economics
+"International Review of Law, Computers and Technology"
+"International Review of Retail, Distribution and Consumer Research"
 International Review on Public and Nonprofit Marketing
 International Seminar on ORC Power Systems
 International Small Business Journal
@@ -2278,6 +2512,7 @@ International Social Security Review
 International Statistical Review
 International Studies of Economics
 International Studies of Management and Organization
+International Symposia in Economic Theory and Econometrics
 International Symposium on Graphic Engineering and Design
 International Tax Studies
 International Tax and Public Finance
@@ -2319,16 +2554,20 @@ Iraqi Journal for Computer Science and Mathematics
 Iraqi Journal of Science
 Irish Studies in International Affairs
 Israel Economic Review
+Issues in Accounting Education
 Issues in Information Systems
 Italian Economic Journal
 Italian Review of Agricultural Economics
 Izvestiya Instituta Matematiki i Informatiki Udmurtskogo Gosudarstvennogo Universiteta
+"Izvestiya Vysshikh Uchebnykh Zavedenii, Seriya Teknologiya Tekstil'noi Promyshlennosti"
+"Izvestiya Wysshikh Uchebnykh Zawedeniy, Yadernaya Energetika"
 Izvestiya of Saratov University. Mathematics. Mechanics. Informatics
 JALT CALL Journal
 JASSS
 JLIS.it
 JMIR Infodemiology
 JMM International Journal on Media Management
+"JPT, Journal of Petroleum Technology"
 JPhys Energy
 Jahrbuch fur Wirtschaftsgeschichte
 Jahrbucher fur Nationalokonomie und Statistik
@@ -2336,10 +2575,11 @@ Japan and the World Economy
 Japanese Economic Review
 Japanese Journal of Statistics and Data Science
 Japanese Political Economy
-Jiaotong Yunshu Xitong Gongcheng Yu Xinxi/ Journal of Transportation Systems Engineering and Information Technology
+Jiaotong Yunshu Xitong Gongcheng Yu Xinxi/ Journal of Transportation Systems Engineering and Information Techn
 Jiqiren/Robot
 Jisuanji Fuzhu Sheji Yu Tuxingxue Xuebao/Journal of Computer-Aided Design and Computer Graphics
 Jisuanji Gongcheng/Computer Engineering
+"Jisuanji Jicheng Zhizao Xitong/Computer Integrated Manufacturing Systems, CIMS"
 Jisuanji Xuebao/Chinese Journal of Computers
 Jisuanji Yanjiu yu Fazhan/Computer Research and Development
 Jixie Gongcheng Xuebao/Chinese Journal of Mechanical Engineering
@@ -2349,13 +2589,24 @@ Jordanian Journal of Computers and Information Technology
 Joule
 Journal Europeen des Systemes Automatises
 Journal Global Policy and Governance
+"Journal Globalization, Competitiveness and Governability"
 Journal Women's Entrepreneurship and Education
 Journal des Economistes et des Etudes Humaines
 Journal for Advancement of Marketing Education
 Journal for Global Business Advancement
 Journal for International Business and Entrepreneurship Development
 Journal for Labour Market Research
+Journal for Studies in Economics and Econometrics
+"Journal for Weavers, Spinners and Dyers"
 Journal for the Measurement of Physical Behaviour
+Journal of Accounting Education
+Journal of Accounting Research
+Journal of Accounting Review
+Journal of Accounting and Economics
+Journal of Accounting and Organizational Change
+Journal of Accounting and Public Policy
+Journal of Accounting in Emerging Economies
+"Journal of Accounting, Auditing and Finance"
 Journal of Advanced Computational Intelligence and Intelligent Informatics
 Journal of Advanced Manufacturing Systems
 Journal of Advanced Manufacturing Technology
@@ -2376,6 +2627,7 @@ Journal of Agricultural and Environmental Law
 Journal of Agricultural and Food Industrial Organization
 Journal of Agricultural and Food Information
 Journal of Agricultural and Resource Economics
+"Journal of Agricultural, Biological, and Environmental Statistics"
 Journal of Air Transport Management
 Journal of Air Transportation
 Journal of Airport Management
@@ -2384,9 +2636,12 @@ Journal of Ambient Intelligence and Humanized Computing
 Journal of Ambient Intelligence and Smart Environments
 Journal of Analytical Methods in Chemistry
 Journal of Analytical and Applied Pyrolysis
+Journal of Applied Accounting Research
 Journal of Applied Analysis
 Journal of Applied Biomedicine
 Journal of Applied Business Research
+Journal of Applied Data Sciences
+Journal of Applied Econometrics
 Journal of Applied Economics
 Journal of Applied Engineering Science
 Journal of Applied Engineering and Technological Science
@@ -2407,8 +2662,10 @@ Journal of Asian Pacific Communication
 Journal of Asset Management
 Journal of Australian Political Economy
 Journal of Australian Taxation
+"Journal of Automata, Languages and Combinatorics"
 Journal of Automated Reasoning
 Journal of Automation and Information Sciences
+"Journal of Automation, Mobile Robotics and Intelligent Systems"
 Journal of Autonomous Intelligence
 Journal of Banking Regulation
 Journal of Banking and Finance
@@ -2418,6 +2675,7 @@ Journal of Behavioral and Experimental Economics
 Journal of Behavioral and Experimental Finance
 Journal of Benefit-Cost Analysis
 Journal of Beta Investment Strategies
+Journal of Big Data
 Journal of Bio-X Research
 Journal of Bioeconomics
 Journal of Bioinformatics and Computational Biology
@@ -2436,6 +2694,7 @@ Journal of Business Economics
 Journal of Business Economics and Management
 Journal of Business Ethics
 Journal of Business Ethics Education
+Journal of Business Finance and Accounting
 Journal of Business Logistics
 Journal of Business Research
 Journal of Business Strategy
@@ -2466,6 +2725,7 @@ Journal of Chinese Economic and Business Studies
 Journal of Chinese Economic and Foreign Trade Studies
 Journal of Chinese Human Resources Management
 Journal of Choice Modelling
+"Journal of Circuits, Systems and Computers"
 Journal of Civil Engineering Education
 Journal of Civil Engineering and Management
 Journal of Classification
@@ -2531,6 +2791,8 @@ Journal of Consumer Marketing
 Journal of Consumer Policy
 Journal of Consumer Psychology
 Journal of Consumer Research
+"Journal of Consumer Satisfaction, Dissatisfaction and Complaining Behavior"
+Journal of Contemporary Accounting and Economics
 Journal of Contemporary Central and Eastern Europe
 Journal of Contemporary Eastern Asia
 Journal of Contemporary Iraq and the Arab World
@@ -2539,7 +2801,9 @@ Journal of Contextual Economics-Schmollers Jahrbuch
 Journal of Contingencies and Crisis Management
 Journal of Control Science and Engineering
 Journal of Control and Decision
+"Journal of Control, Automation and Electrical Systems"
 Journal of Convention and Event Tourism
+Journal of Corporate Accounting and Finance
 Journal of Corporate Finance
 Journal of Corporate Real Estate
 Journal of Creating Value
@@ -2569,6 +2833,7 @@ Journal of Demographic Economics
 Journal of Derivatives
 Journal of Derivatives and Quantitative Studies
 Journal of Design Research
+"Journal of Design, Business and Society"
 Journal of Destination Marketing and Management
 Journal of Development Economics
 Journal of Developmental Entrepreneurship
@@ -2579,12 +2844,14 @@ Journal of Digital Learning in Teacher Education
 Journal of Digital and Social Media Marketing
 Journal of Distribution Science
 Journal of Documentation
+"Journal of Dynamic Systems, Measurement and Control, Transactions of the ASME"
 Journal of E-Learning and Knowledge Society
 Journal of East Asian Studies
 Journal of East European Management Studies
 Journal of East-West Business
 Journal of Eastern European and Central Asian Research
 Journal of Econometric Methods
+Journal of Econometrics
 Journal of Economic Asymmetries
 Journal of Economic Behavior and Organization
 Journal of Economic Cooperation and Development
@@ -2607,9 +2874,11 @@ Journal of Economic Structures
 Journal of Economic Studies
 Journal of Economic Surveys
 Journal of Economic Theory
+Journal of Economic Theory and Econometrics
 Journal of Economics and Business
 Journal of Economics and Finance
 Journal of Economics and Management Strategy
+"Journal of Economics, Finance and Administrative Science"
 Journal of Economics/ Zeitschrift fur Nationalokonomie
 Journal of Ecotourism
 Journal of Education Finance
@@ -2627,10 +2896,12 @@ Journal of Electromagnetic Engineering and Science
 Journal of Electronic Commerce Research
 Journal of Electronic Commerce in Organizations
 Journal of Electronic Imaging
+"Journal of Electronic Packaging, Transactions of the ASME"
 Journal of Electronic Publishing
 Journal of Electronic Resources Librarianship
 Journal of Electronic Science and Technology
 Journal of Emerging Market Finance
+Journal of Emerging Technologies in Accounting
 Journal of Empirical Finance
 Journal of Empirical Generalisations in Marketing Science
 Journal of Employment Counseling
@@ -2638,6 +2909,7 @@ Journal of Enabling Technologies
 Journal of Energy Chemistry
 Journal of Energy Engineering - ASCE
 Journal of Energy Markets
+"Journal of Energy Resources Technology, Transactions of the ASME"
 Journal of Energy Storage
 Journal of Energy Systems
 Journal of Energy and Development
@@ -2648,6 +2920,7 @@ Journal of Engineering Thermophysics
 Journal of Engineering and Technology Management - JET-M
 Journal of Engineering and Technology for Industrial Applications
 Journal of Engineering for Gas Turbines and Power
+"Journal of Engineering, Project, and Production Management"
 Journal of Enterprise Information Management
 Journal of Enterprising Communities
 Journal of Entrepreneurial and Organizational Diversity
@@ -2655,6 +2928,8 @@ Journal of Entrepreneurship
 Journal of Entrepreneurship and Innovation in Emerging Economies
 Journal of Entrepreneurship and Public Policy
 Journal of Entrepreneurship in Emerging Economies
+"Journal of Entrepreneurship, Management and Innovation"
+Journal of Environmental Accounting and Management
 Journal of Environmental Economics and Management
 Journal of Environmental Economics and Policy
 Journal of Environmental Informatics
@@ -2672,15 +2947,21 @@ Journal of Family and Economic Issues
 Journal of Fashion Marketing and Management
 Journal of Fiber Bioengineering and Informatics
 Journal of Field Robotics
+Journal of Finance
+Journal of Finance and Data Science
 Journal of Financial Counseling and Planning
 Journal of Financial Crime
+Journal of Financial Data Science
+Journal of Financial Econometrics
 Journal of Financial Economic Policy
 Journal of Financial Economics
 Journal of Financial Intermediation
 Journal of Financial Management of Property and Construction
+"Journal of Financial Management, Markets and Institutions"
 Journal of Financial Markets
 Journal of Financial Regulation
 Journal of Financial Regulation and Compliance
+Journal of Financial Reporting and Accounting
 Journal of Financial Research
 Journal of Financial Services Marketing
 Journal of Financial Services Research
@@ -2689,6 +2970,7 @@ Journal of Financial Therapy
 Journal of Financial and Quantitative Analysis
 Journal of Fixed Income
 Journal of Flow Visualization and Image Processing
+"Journal of Fluid Flow, Heat and Mass Transfer"
 Journal of Food Distribution Research
 Journal of Food Products Marketing
 Journal of Forecasting
@@ -2745,6 +3027,7 @@ Journal of Hospitality and Tourism Insights
 Journal of Hospitality and Tourism Management
 Journal of Hospitality and Tourism Research
 Journal of Hospitality and Tourism Technology
+"Journal of Hospitality, Leisure, Sport and Tourism Education"
 Journal of Housing Economics
 Journal of Housing Research
 Journal of Human Capital
@@ -2769,6 +3052,7 @@ Journal of Industrial Integration and Management
 Journal of Industrial Relations
 Journal of Industrial and Business Economics
 Journal of Industrial and Management Optimization
+"Journal of Industry, Competition and Trade"
 Journal of Information Hiding and Multimedia Signal Processing
 Journal of Information Processing
 Journal of Information Processing Systems
@@ -2794,12 +3078,14 @@ Journal of Information and Communication Technology
 Journal of Information and Knowledge Management
 Journal of Information and Organizational Sciences
 Journal of Information and Telecommunication
+"Journal of Information, Communication and Ethics in Society"
 Journal of Informetrics
 Journal of Innovation Economics and Management
 Journal of Innovation Management
 Journal of Innovation and Entrepreneurship
 Journal of Innovation and Knowledge
 Journal of Insect Biotechnology and Sericology
+"Journal of Institute of Control, Robotics and Systems"
 Journal of Institutional Economics
 Journal of Institutional and Theoretical Economics
 Journal of Integrated Disaster Risk Management
@@ -2810,6 +3096,7 @@ Journal of Intelligent Information Systems
 Journal of Intelligent Manufacturing
 Journal of Intelligent Systems
 Journal of Intelligent Systems and Internet of Things
+"Journal of Intelligent Transportation Systems: Technology, Planning, and Operations"
 Journal of Intelligent and Fuzzy Systems
 Journal of Intelligent and Robotic Systems: Theory and Applications
 Journal of Inter-Organizational Relationships
@@ -2820,15 +3107,20 @@ Journal of Interactive Media in Education
 Journal of Interconnection Networks (discontinued)
 Journal of Intercultural Communication
 Journal of Interdisciplinary Economics
+Journal of International Accounting Research
+"Journal of International Accounting, Auditing and Taxation"
 Journal of International Business Education
 Journal of International Business Policy
 Journal of International Business Studies
+"Journal of International Commerce, Economics and Policy"
 Journal of International Consumer Marketing
 Journal of International Crisis and Risk Communication Research
 Journal of International Economic Law
 Journal of International Economics
 Journal of International Education in Business
 Journal of International Entrepreneurship
+Journal of International Financial Management and Accounting
+"Journal of International Financial Markets, Institutions and Money"
 Journal of International Food and Agribusiness Marketing
 Journal of International Logistics and Trade
 Journal of International Management
@@ -2844,10 +3136,13 @@ Journal of Internet Services and Information Security
 Journal of Internet Technology
 Journal of Investing
 Journal of Investment Strategies
+Journal of Islamic Accounting and Business Research
 Journal of Islamic Marketing
 Journal of Islamic Monetary Economics and Finance
 Journal of Japan Industrial Management Association
+"Journal of King Abdulaziz University, Islamic Economics"
 Journal of King Saud University - Computer and Information Sciences
+"Journal of King Saud University, Engineering Sciences"
 Journal of Knowledge Management
 Journal of Korea Trade
 Journal of Labor Economics
@@ -2855,12 +3150,16 @@ Journal of Labor Research
 Journal of Labor and Society
 Journal of Language Modelling
 Journal of Law and Economics
+"Journal of Law, Economics, and Organization"
+"Journal of Law, Finance, and Accounting"
 Journal of Leadership and Organizational Studies
 Journal of Learning Analytics
 Journal of Leisure Research
 Journal of Location Based Services
 Journal of Logic and Computation
+"Journal of Logic, Language and Information"
 Journal of Logical and Algebraic Methods in Programming
+"Journal of Logistics, Informatics and Service Science"
 Journal of Loss Prevention in the Process Industries
 Journal of Machine Engineering
 Journal of Machine Learning Research
@@ -2868,6 +3167,7 @@ Journal of Machine and Computing
 Journal of Macroeconomics
 Journal of Macromarketing
 Journal of Management
+Journal of Management Accounting Research
 Journal of Management Analytics
 Journal of Management Control
 Journal of Management Development
@@ -2881,6 +3181,7 @@ Journal of Management and Business Research
 Journal of Management and Governance
 Journal of Management and Organization
 Journal of Management in Engineering - ASCE
+"Journal of Management, Spirituality and Religion"
 Journal of Managerial Psychology
 Journal of Manufacturing Processes
 Journal of Manufacturing Science and Engineering
@@ -2902,6 +3203,7 @@ Journal of Mathematical Imaging and Vision
 Journal of Mathematics and Computer Science
 Journal of Mathematics and the Arts
 Journal of Mechanical Design
+"Journal of Mechatronics, Electrical Power, and Vehicular Technology"
 Journal of Media Business Studies
 Journal of Media Economics
 Journal of Medical Artificial Intelligence
@@ -2912,8 +3214,10 @@ Journal of Medical Systems
 Journal of Medicinal Plants for Economic Development
 Journal of Membrane Computing
 Journal of Memory and Language
+"Journal of Mental Health Training, Education and Practice"
 Journal of Metaverse
 Journal of Microelectronics and Electronic Packaging
+"Journal of Mines, Metals and Fuels"
 Journal of Mining Science and Technology
 Journal of Mixed Methods Research
 Journal of Modelling in Management
@@ -2924,14 +3228,17 @@ Journal of Molecular Graphics and Modelling
 Journal of Molecular Modeling
 Journal of Monetary Economics
 Journal of Money Laundering Control
+"Journal of Money, Credit and Banking"
 Journal of Multi-Criteria Decision Analysis
 Journal of Multinational Financial Management
 Journal of Multiple-Valued Logic and Soft Computing
 Journal of Multiscale Modeling
 Journal of Multivariate Analysis
+"Journal of Music, Technology and Education"
 Journal of Network Intelligence
 Journal of Network and Computer Applications
 Journal of Network and Systems Management
+"Journal of Neuroscience, Psychology, and Economics"
 Journal of Neutron Research
 Journal of New Materials for Electrochemical Systems
 Journal of Nonparametric Statistics
@@ -2947,6 +3254,7 @@ Journal of Ocean and Coastal Economics
 Journal of Offshore Mechanics and Arctic Engineering
 Journal of Oil Palm Research
 Journal of Open Humanities Data
+"Journal of Open Innovation: Technology, Market, and Complexity"
 Journal of Open Research Software
 Journal of Operation and Automation in Power Engineering
 Journal of Operational Meteorology
@@ -2985,6 +3293,7 @@ Journal of Pipeline Science and Engineering
 Journal of Place Management and Development
 Journal of Policy Analysis and Management
 Journal of Policy Modeling
+"Journal of Policy Research in Tourism, Leisure and Events"
 Journal of Political Economy
 Journal of Political Marketing
 Journal of Population Economics
@@ -3005,6 +3314,7 @@ Journal of Property Investment and Finance
 Journal of Property Tax Assessment and Administration
 Journal of Propulsion and Power
 Journal of Public Administration Research and Theory
+"Journal of Public Budgeting, Accounting and Financial Management"
 Journal of Public Economic Theory
 Journal of Public Economics
 Journal of Public Finance and Public Choice
@@ -3052,6 +3362,7 @@ Journal of Risk and Uncertainty
 Journal of Robotics
 Journal of Robotics and Control (JRC)
 Journal of Robotics and Mechatronics
+"Journal of Robotics, Networking and Artificial Life"
 Journal of Safety Science and Resilience
 Journal of Scheduling
 Journal of School Administration Research and Development
@@ -3077,7 +3388,9 @@ Journal of Social Entrepreneurship
 Journal of Social Marketing
 Journal of Social Ontology
 Journal of Social and Economic Development
+"Journal of Social, Political, and Economic Studies"
 Journal of Soft Computing in Civil Engineering
+"Journal of Solar Energy Engineering, Transactions of the ASME"
 Journal of Solar Energy Research
 Journal of Solid State Electrochemistry
 Journal of Sound and Music in Games
@@ -3107,6 +3420,7 @@ Journal of Supply Chain Management
 Journal of Survey Statistics and Methodology
 Journal of Sustainability Research
 Journal of Sustainable Architecture and Civil Engineering
+"Journal of Sustainable Development of Energy, Water and Environment Systems"
 Journal of Sustainable Finance and Investment
 Journal of Sustainable Forestry
 Journal of Sustainable Mining
@@ -3132,6 +3446,7 @@ Journal of Technology in Behavioral Science
 Journal of Technology in Human Services
 Journal of Telecommunications and Information Technology
 Journal of Telecommunications and the Digital Economy
+"Journal of Textile and Apparel, Technology and Management"
 Journal of The Institution of Engineers (India): Series B
 Journal of Theoretical Probability
 Journal of Theoretical and Applied Electronic Commerce Research
@@ -3139,6 +3454,7 @@ Journal of Theoretical and Applied Information Technology
 Journal of Theoretical and Computational Acoustics
 Journal of Thermal Engineering
 Journal of Time Series Analysis
+Journal of Time Series Econometrics
 Journal of Time Use Research
 Journal of Tourism Analysis
 Journal of Tourism Futures
@@ -3146,6 +3462,7 @@ Journal of Tourism History
 Journal of Tourism and Cultural Change
 Journal of Tourism and Development
 Journal of Tourism and Services
+"Journal of Tourism, Heritage and Services Marketing"
 Journal of Transport Economics and Policy
 Journal of Transport and Supply Chain Management
 Journal of Transportation Security
@@ -3156,6 +3473,7 @@ Journal of Uncertain Systems
 Journal of Universal Computer Science
 Journal of Urban Economics
 Journal of Vacation Marketing
+"Journal of Verification, Validation and Uncertainty Quantification"
 Journal of Vinyl and Additive Technology
 Journal of Visual Communication and Image Representation
 Journal of Visualization
@@ -3167,6 +3485,7 @@ Journal of Web Librarianship
 Journal of Wind Engineering
 Journal of Wind Engineering and Industrial Aerodynamics
 Journal of Wine Economics
+"Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications"
 Journal of Work-Applied Management
 Journal of Workplace Learning
 Journal of World Business
@@ -3205,6 +3524,7 @@ Journal of the Korean Society for Railway
 Journal of the Operational Research Society
 Journal of the Operations Research Society of China
 Journal of the Operations Research Society of Japan
+"Journal of the Optical Society of America A: Optics and Image Science, and Vision"
 Journal of the Royal Statistical Society. Series A: Statistics in Society
 Journal of the Royal Statistical Society. Series B: Statistical Methodology
 Journal of the Royal Statistical Society. Series C: Applied Statistics
@@ -3235,6 +3555,7 @@ Knowledge and Process Management
 Knowledge-Based Systems
 Komp'juternaja Lingvistika i Intellektual'nye Tehnologii
 Kongzhi yu Juece/Control and Decision
+Korean Accounting Review
 Korean Economic Review
 Korean Journal of Financial Studies
 Kybernetes
@@ -3252,6 +3573,7 @@ Labour History
 Labour History Review
 Labour and Industry
 Labour/Le Travail
+"Lancet Digital Health, The"
 Land Economics
 Language Documentation and Conservation
 Language Learning and Technology
@@ -3262,6 +3584,9 @@ Latin American Research Review
 Law and Development Review
 Law and Economics Yearly Review
 Law and Financial Markets Review
+"Law, Innovation and Technology"
+"Law, Probability and Risk"
+"Law, Technology and Humans"
 Leadership
 Leadership Quarterly
 Leadership and Organization Development Journal
@@ -3273,13 +3598,16 @@ Lecture Notes in Applied and Computational Mechanics
 Lecture Notes in Business Information Processing
 Lecture Notes in Computational Vision and Biomechanics
 Lecture Notes in Computer Science
+"Lecture Notes in Informatics (LNI), Proceedings - Series of the Gesellschaft fur Informatik (GI)"
 Lecture Notes in Information Systems and Organisation
 Lecture Notes in Networks and Systems
 Lecture Notes of TICMI
+"Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering"
 Lecture Notes on Data Engineering and Communications Technologies
 Lecture Notes on Multidisciplinary Industrial Engineering
 Ledger
 Legal Issues of Economic Integration
+"Leibniz International Proceedings in Informatics, LIPIcs"
 Leisure Sciences
 Leisure Studies
 Leisure/ Loisir
@@ -3322,6 +3650,7 @@ Malaysian Journal of Consumer and Family Economics
 Malaysian Journal of Economic Studies
 Management
 Management (France)
+Management Accounting Research
 Management Communication Quarterly
 Management Decision
 Management International Review
@@ -3333,6 +3662,7 @@ Management Revue
 Management Science
 Management Systems in Production Engineering
 Management Teaching Review
+Management and Accounting Review
 Management and Labour Studies
 Management and Marketing
 Management and Organization Review
@@ -3355,6 +3685,7 @@ Marketing Intelligence and Planning
 Marketing Letters
 Marketing Science
 Marketing Theory
+"Marketing, Zeitschrift fur Forschung und Praxis"
 Masaryk University Journal of Law and Technology
 Match
 Matematiche
@@ -3387,6 +3718,8 @@ Mathematics and Statistics
 Mathematics and Visualization
 Mathematics in Computer Science
 Mathematics in Industry
+"Mathematics of Control, Signals, and Systems"
+Mathematics of Operations Research
 Matter and Radiation at Extremes
 Measuring Business Excellence
 Mechanical Engineering for Society and Industry
@@ -3402,10 +3735,12 @@ Meditari Accountancy Research
 Meitan Kexue Jishu/Coal Science and Technology (Peking)
 Meitan Xuebao/Journal of the China Coal Society
 Meitiandizhi Yu Kantan/Coal Geology and Exploration
+"Mekhatronika, Avtomatizatsiya, Upravlenie"
 Melliand International
 Membrane Technology
 Memetic Computing
 Mendel
+"Methods, Data, Analyses"
 Metrika
 Metroeconomica
 Mezhdunarodnye Protsessy
@@ -3414,15 +3749,18 @@ Microprocessors and Microsystems
 Microsystem Technologies
 Middle East Development Journal
 Middle East Quarterly
+Military Operations Research
 Millennial Asia
 Mind and Society
 Minds and Machines
 Mineral Economics
+"Minerals, Metals and Materials Series"
 Mir Rossii
 Mobile Information Systems (discontinued)
 Mobile Media and Communication
 Mobile Networks and Applications
 Modeling Earth Systems and Environment
+"Modeling, Identification and Control"
 Modelling
 Modelling and Simulation in Engineering
 Modelling and Simulation in Materials Science and Engineering
@@ -3435,6 +3773,7 @@ Molecular Systems Design and Engineering
 Mondes En Developpement
 Mondo Digitale
 Moneta e Credito
+"Monies, Markets, and Finance in East Asia 1600-1900"
 Monitoring Obshchestvennogo Mneniya: Ekonomicheskie i Sotsial'nye Peremeny
 Montenegrin Journal of Economics
 Monthly Labor Review
@@ -3452,6 +3791,7 @@ Multiscale Modeling and Simulation
 Multisensory Research
 Mundo Agrario
 Museum Management and Curatorship
+"Music, Sound and the Moving Image"
 Musica Tecnologia
 NAR Genomics and Bioinformatics
 NBER Macroeconomics Annual
@@ -3512,6 +3852,7 @@ New Perspectives on Turkey
 New Review of Hypermedia and Multimedia
 New Review of Information Networking
 New Space
+"New Technology, Work and Employment"
 New Zealand Economic Papers
 Nigerian Journal of Economic and Social Studies
 Nihon Enerugi Gakkaishi/Journal of the Japan Institute of Energy
@@ -3542,6 +3883,7 @@ Nuclear Technology and Radiation Protection
 Nuclear and Radiation Safety
 Nukleonika
 Numerical Functional Analysis and Optimization
+"Numerical Heat Transfer, Part B: Fundamentals"
 Nursing management
 Nurture
 OEconomia
@@ -3572,6 +3914,12 @@ Operational Research in Engineering Sciences: Theory and Applications
 Operations Engineer
 Operations Management Education Review
 Operations Management Research
+Operations Research
+Operations Research Forum
+Operations Research Letters
+Operations Research Perspectives
+Operations Research and Decisions
+Operations Research for Health Care
 Operations and Supply Chain Management
 Optical Materials
 Optical Memory and Neural Networks (Information Optics)
@@ -3590,6 +3938,7 @@ Organization Management Journal
 Organization Science
 Organization Studies
 Organization and Environment
+"Organization, Technology and Management in Construction"
 Organizational Behavior and Human Decision Processes
 Organizational Cultures
 Organizational Dynamics
@@ -3605,6 +3954,7 @@ PLoS Computational Biology
 PRX Quantum
 PSL Quarterly Review
 PSU Research Review
+Pacific Accounting Review
 Pacific Asia Journal of the Association for Information Systems
 Pacific Basin Finance Journal
 Pacific Economic Review
@@ -3623,6 +3973,7 @@ Paliva
 Panoeconomicus
 Paper Asia
 Paper360
+"Parallel Architectures and Compilation Techniques - Conference Proceedings, PACT"
 Parallel Computing
 Parallel Processing Letters
 Passer Journal of Basic and Applied Sciences
@@ -3631,6 +3982,7 @@ Pattern Recognition
 Pattern Recognition Letters
 Pattern Recognition and Image Analysis
 Patterns
+"Peace Economics, Peace Science and Public Policy"
 Peer-to-Peer Networking and Applications
 PeerJ Computer Science
 Pensiero Economico Italiano
@@ -3638,6 +3990,7 @@ Perception
 Performance Evaluation
 Performance Evaluation Review
 Performance Improvement Quarterly
+"Periodica Polytechnica, Social and Management Sciences"
 Periodica polytechnica Electrical engineering and computer science
 Periodicals of Engineering and Natural Sciences
 Personal and Ubiquitous Computing
@@ -3665,7 +4018,9 @@ Photogrammetric Record
 Photonic Network Communications
 Photonics and Nanostructures - Fundamentals and Applications
 Physica C: Superconductivity and its Applications
+"Physical Culture and Sport, Studies and Research"
 Physics of Life Reviews
+"Pixel-Bit, Revista de Medios y Educacion"
 Place Branding and Public Diplomacy
 Plant Engineering
 Plasma Physics and Controlled Fusion
@@ -3675,6 +4030,7 @@ Polish Journal of Management Studies
 Polish Journal of Sport and Tourism
 Politica Economica
 Politicka Ekonomie
+"Politics, Philosophy and Economics"
 Polityka Energetyczna
 Pollack Periodica
 Polymer Reviews
@@ -3692,20 +4048,25 @@ Pragmatics and Cognition
 Prague Economic Papers
 Prakseologia
 Presence: Teleoperators and Virtual Environments
+"Preservation, Digital Technology and Culture"
 Prikladnaya Diskretnaya Matematika
 Printed Circuit Design and Fab
 Printing Impressions
 Probabilistic Engineering Mechanics
 Probability Theory and Related Fields
 Probability in the Engineering and Informational Sciences
+"Probability, Uncertainty and Quantitative Risk"
 Problemas del Desarrollo
 Problems and Perspectives in Management
 Problems of Atomic Science and Technology
+"Problems of Atomic Science and Technology, Series Thermonuclear Fusion"
 Problems of Information Transmission
 Problems of the Regional Energetics
 Problemy Ekorozwoju
 Procedia Computer Science
+"Proceedings - Frontiers in Education Conference, FIE"
 Proceedings - Graphics Interface
+"Proceedings - ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing"
 Proceedings - IEEE Computer Society's International Computer Software and Applications Conference
 Proceedings - IEEE INFOCOM
 Proceedings - IEEE International Conference on Computer Design: VLSI in Computers and Processors
@@ -3715,6 +4076,7 @@ Proceedings - International Conference on Distributed Computing Systems
 Proceedings - International Conference on Pattern Recognition
 Proceedings - International Conference on Software Engineering
 Proceedings - International Symposium on Computers and Communications
+"Proceedings - International Symposium on Discharges and Electrical Insulation in Vacuum, ISDEIV"
 Proceedings - Real-Time Systems Symposium
 Proceedings - SPE Annual Technical Conference and Exhibition
 Proceedings - SPE International Symposium on Formation Damage Control
@@ -3724,6 +4086,7 @@ Proceedings - Symposium on Logic in Computer Science
 Proceedings - Winter Simulation Conference
 Proceedings from the International Congress on Project Management and Engineering
 Proceedings of Institution of Civil Engineers: Energy
+"Proceedings of Institution of Civil Engineers: Management, Procurement and Law"
 Proceedings of International Conference on Research in Education and Science
 Proceedings of SPIE - The International Society for Optical Engineering
 Proceedings of The International Symposium on Multiple-Valued Logic
@@ -3731,9 +4094,11 @@ Proceedings of the ACM Conference on Computer and Communications Security
 Proceedings of the ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems
 Proceedings of the ACM SIGMOD International Conference on Management of Data
 Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)
+"Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPOPP"
 Proceedings of the ACM Symposium on Applied Computing
 Proceedings of the ACM on Computer Graphics and Interactive Techniques
 Proceedings of the ACM on Human-Computer Interaction
+"Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
 Proceedings of the ACM on Measurement and Analysis of Computing Systems
 Proceedings of the ACM on Programming Languages
 Proceedings of the Annual ACM Symposium on Principles of Distributed Computing
@@ -3744,6 +4109,7 @@ Proceedings of the Asian Technology Conference in Mathematics
 Proceedings of the Association for Information Science and Technology
 Proceedings of the Centre for Economic History Research
 Proceedings of the Data Compression Conference
+"Proceedings of the European Conference on Synthetic Aperture Radar, EUSAR"
 Proceedings of the European Wave and Tidal Energy Conference
 Proceedings of the Hamburg International Conference of Logistics
 Proceedings of the IEEE
@@ -3757,9 +4123,10 @@ Proceedings of the IEEE Symposium on Reliable Distributed Systems
 Proceedings of the IEEE VLSI Test Symposium
 Proceedings of the Information Visualization Conference
 Proceedings of the Institution of Civil Engineers: Smart Infrastructure and Construction
+"Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy"
 Proceedings of the International Conference Computational Linguistics in Bulgaria
 Proceedings of the International Conference of Architectural Science Association
-Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design in Europe
+Proceedings of the International Conference on Education and Research in Computer Aided Architectural Design i
 Proceedings of the International Conference on New Interfaces for Musical Expression
 Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering - OMAE
 Proceedings of the International Conference on Parallel and Distributed Systems - ICPADS
@@ -3776,6 +4143,7 @@ Proceedings of the Pakistan Academy of Sciences: Part A
 Proceedings of the Romanian Academy Series A - Mathematics Physics Technical Sciences Information Science
 Proceedings of the Thermal and Fluids Engineering Summer Conference
 Proceedings of the VLDB Endowment
+"Proceedings of the Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises, WET ICE"
 Proceedings of the World Congress on Electrical Engineering and Computer Systems and Science
 Proceedings on Engineering Sciences
 Procesamiento del Lenguaje Natural
@@ -3828,6 +4196,7 @@ Purushartha
 Q Open
 Qinghua Daxue Xuebao/Journal of Tsinghua University
 Qualitative Market Research
+Qualitative Research in Accounting and Management
 Qualitative Research in Financial Markets
 Qualitative Research in Organizations and Management
 Quality - Access to Success
@@ -3847,6 +4216,7 @@ Quantum Information and Computation
 Quantum Machine Intelligence
 Quarterly Journal of Austrian Economics
 Quarterly Journal of Economics
+Quarterly Journal of Finance
 Quarterly Review of Economics and Finance
 Qubahan Academic Journal
 Queue
@@ -3857,6 +4227,7 @@ R Journal
 R and D Management
 R-Economy
 RAE Revista de Administracao de Empresas
+RAIRO - Operations Research
 RAIRO - Theoretical Informatics and Applications
 RAND Journal of Economics
 RAUSP Management Journal
@@ -3868,6 +4239,7 @@ RISTI - Revista Iberica de Sistemas e Tecnologias de Informacao
 ROBOMECH Journal
 Radiation Detection Technology and Methods
 Radioelectronic and Computer Systems
+"Radioelektronika, Nanosistemy, Informacionnye Tehnologii"
 Radiology: Artificial Intelligence
 Radioprotection
 Radwaste Solutions
@@ -3888,10 +4260,12 @@ Recta
 Reference and User Services Quarterly
 Reflets et Perspectives de la Vie Economique
 Region
+"Region: Regional Studies of Russia, Eastern Europe, and Central Asia"
 Regional Research of Russia
 Regional Science Inquiry
 Regional Science and Urban Economics
 Regional Statistics
+"Regional Studies, Regional Science"
 Regional Sustainability
 Regional and Sectoral Economic Studies
 Register: Jurnal Ilmiah Teknologi Sistem Informasi
@@ -3928,17 +4302,22 @@ Research in Transportation Business and Management
 Research in Transportation Economics
 Research in the Sociology of Organizations
 Research on Economic Inequality
+Research on Professional Responsibility and Ethics in Accounting
 Research on World Agricultural Economy
 Reserve Bank of India Occasional Papers
 Resource Recovery and Reuse
 Resources Chemicals and Materials
 Resources Policy
 Resources and Energy Economics
+"Resources, Conservation and Recycling"
+"Resources, Conservation and Recycling Advances"
 Restaurant Business
 Results in Control and Optimization
 Retos(Ecuador)
 Retraite et Societe
 Rev Roumaine des Sciences Techniques-Series Electrotechnique et Energetique
+Review of Accounting Studies
+Review of Accounting and Finance
 Review of Applied Socio-Economic Research
 Review of Asset Pricing Studies
 Review of Austrian Economics
@@ -3979,6 +4358,7 @@ Review of Network Economics
 Review of Pacific Basin Financial Markets and Policies
 Review of Political Economy
 Review of Public Personnel Administration
+Review of Quantitative Finance and Accounting
 Review of Radical Political Economics
 Review of Regional Research
 Review of Social Economy
@@ -4001,9 +4381,11 @@ Revista de Administracao Contemporanea
 Revista de Administracao Mackenzie
 Revista de Analisis Economico
 Revista de Artes Marciales Asiaticas
+Revista de Contabilidad-Spanish Accounting Review
 Revista de Contabilidade e Organizacoes
 Revista de Defesa da Concorrencia
 Revista de Derecho Ambiental(Chile)
+"Revista de Direito, Estado e Telecomunicacoes"
 Revista de Economia Contemporanea
 Revista de Economia Institucional
 Revista de Economia Mundial
@@ -4015,8 +4397,10 @@ Revista de Gestao
 Revista de Gestion Publica
 Revista de Historia Economica - Journal of Iberian and Latin American Economic History
 Revista de Informatica Teorica e Aplicada
+"Revista de Internet, Derecho y Politica"
 Revista de Metodos Cuantitativos para la Economia y la Empresa
 Revista de Psicologia del Trabajo y de las Organizaciones
+"Revista de la Academia Colombiana de Ciencias Exactas, Fisicas y Naturales"
 Revista de la Facultad de Ciencias
 Revista del Ministerio de Trabajo y Economia Social
 Revue Economique
@@ -4071,6 +4455,7 @@ SIAM Journal on Computing
 SIAM Journal on Financial Mathematics
 SIAM Journal on Optimization
 SIAM-ASA Journal on Uncertainty Quantification
+"SICE Journal of Control, Measurement, and System Integration"
 SIGMOD Record
 SLAS Technology
 SN Computer Science
@@ -4083,6 +4468,7 @@ SPE Production and Operations
 SPE Reservoir Evaluation and Engineering
 SSRG International Journal of Electrical and Electronics Engineering
 SSRG International Journal of Electronics and Communication Engineering
+"Sampling Theory, Signal Processing, and Data Analysis"
 Sankhya A
 Sankhya B
 Sankhya: The Indian Journal of Statistics
@@ -4116,9 +4502,11 @@ Scientific Annals of Economics and Business
 Scientific Contributions Oil and Gas
 Scientific Drilling
 Scientific Horizons
+"Scientific Papers of the University of Pardubice, Series D: Faculty of Economics and Administration"
 Scientific Programming (discontinued)
 Scientific Visualization
 Scientific and Technical Information Processing
+"Scientific and Technical Journal of Information Technologies, Mechanics and Optics"
 Scientific data
 Scientometrics
 Scienze Regionali
@@ -4159,6 +4547,7 @@ SiSal Journal
 Sigma Journal of Engineering and Natural Sciences
 Signal Processing
 Signal Processing: Image Communication
+"Signal, Image and Video Processing"
 Simulation
 Simulation Modelling Practice and Theory
 Simulation and Gaming
@@ -4172,6 +4561,7 @@ Smart Cities
 Smart Energy
 Smart Grids and Sustainable Energy
 Smart Health
+"Smart Innovation, Systems and Technologies"
 Smart Learning Environments
 Smart Materials and Structures
 Smart Science
@@ -4188,6 +4578,7 @@ Social Science Computer Review
 Social Sciences and Humanities Open
 Social and Economic Studies
 Social and Environmental Accountability Journal
+"Social, Economic and Political Studies of the Middle East and Asia"
 Societies and Political Orders in Transition
 Society and Business Review
 Society and Economy
@@ -4199,6 +4590,7 @@ Sociologie du Travail
 Soft Computing
 Soft Robotics
 Software - Practice and Experience
+"Software Engineering Education Conference, Proceedings"
 Software Impacts
 Software Quality Journal
 Software Testing Verification and Reliability
@@ -4214,6 +4606,7 @@ Solid Fuel Chemistry
 Somatechnics
 Source Code for Biology and Medicine
 South African Computer Journal
+South African Journal of Accounting Research
 South African Journal of Business Management
 South African Journal of Chemical Engineering
 South African Journal of Economic and Management Sciences
@@ -4233,6 +4626,7 @@ Sovremennaya Evropa
 Sovremennye Problemy Distantsionnogo Zondirovaniya Zemli iz Kosmosa
 Space Policy
 Space and Culture
+"Space and Culture, India"
 Spanish Journal of Marketing - ESIC
 Spatial Cognition and Computation
 Spatial Economic Analysis
@@ -4247,6 +4641,7 @@ Sport Management Review
 Sport Marketing Quarterly
 Sport Mont
 Sport i Turystyka
+"Sport, Business and Management: An International Journal"
 Sports Coaching Review
 Springer Proceedings in Advanced Robotics
 Springer Proceedings in Business and Economics
@@ -4272,6 +4667,8 @@ Statistics and Probability Letters
 Statistics and Public Policy
 Statistics and Risk Modeling
 Statistics in Transition
+"Statistics, Optimization and Information Computing"
+"Statistics, Politics and Policy"
 Statistika
 Statisztikai Szemle
 Stochastic Analysis and Applications
@@ -4290,13 +4687,19 @@ Structural Change and Economic Dynamics
 Structural Equation Modeling
 Structural and Multidisciplinary Optimization
 Studia Sportiva
+"Studia Universitatis Vasile Goldis Arad, Economics Series"
 Studies in Agricultural Economics
+Studies in Big Data
 Studies in Business and Economics
 Studies in Computational Intelligence
 Studies in Economics and Finance
 Studies in Informatics and Control
+Studies in Managerial and Financial Accounting
 Studies in Microeconomics
+Studies in Nonlinear Dynamics and Econometrics
 Studies in Political Economy
+"Studies in Systems, Decision and Control"
+Studies in the Development of Accounting Thought
 Studies on Russian Economic Development
 Stuttgarter Symposium fur Produktentwicklung
 Sudosteuropa
@@ -4305,6 +4708,7 @@ Superconductivity
 Supply Chain Forum
 Supply Chain Management
 Sustainability
+"Sustainability Accounting, Management and Policy Journal"
 Sustainability and climate change
 Sustainable Cities and Society
 Sustainable Computing: Informatics and Systems
@@ -4312,6 +4716,7 @@ Sustainable Development
 Sustainable Development of Mountain Territories
 Sustainable Energy Technologies and Assessments
 Sustainable Energy and Fuels
+"Sustainable Energy, Grids and Networks"
 Sustainable Environment Research
 Sustainable Futures
 Sustainable Materials and Technologies
@@ -4328,6 +4733,8 @@ Synthesis Lectures on Communication Networks
 Synthesis Lectures on Computer Architecture
 Synthesis Lectures on Computer Science
 Synthesis Lectures on Human Language Technologies
+"Synthesis Lectures on Image, Video, and Multimedia Processing"
+"Synthesis Lectures on Information Concepts, Retrieval, and Services"
 Synthesis Lectures on Signal Processing
 System Dynamics Review
 System Research and Information Technologies
@@ -4340,6 +4747,7 @@ Systems Science and Control Engineering
 Systems and Control Letters
 Systems and Soft Computing
 TAL Traitement Automatique des Langues
+"TECHNO Review. International Technology, Science and Society Review / Revista Internacional de Tecnología, Cie"
 TEM Journal
 TOP
 TQM Journal
@@ -4361,8 +4769,11 @@ Technology Analysis and Strategic Management
 Technology Innovation Management Review
 Technology and Health Care
 Technology in Society
+"Technology, Knowledge and Learning"
+"Technology, Pedagogy and Education"
 Technovation
 Tehnicki Glasnik
+"Tekst, Kniga, Knigoizdaniye"
 Tekstilec
 Telecom
 Telecommunications Policy
@@ -4420,6 +4831,7 @@ Tourism and Hospitality Management
 Tourism and Hospitality Research
 Tourism and Management Studies
 Tourism in Marine Environments
+"Tourism, Culture and Communication"
 Tourist Studies
 Transactional Analysis Journal
 Transactions - Geothermal Resources Council
@@ -4434,6 +4846,7 @@ Transactions on Embedded Computing Systems
 Transactions on Energy Systems and Engineering Applications
 Transfer
 Transformations in Business and Economics
+"Transforming Government: People, Process and Policy"
 Transinformacao
 Transnational Corporations
 Transnational Corporations Review
@@ -4443,10 +4856,14 @@ Transport and Telecommunication
 Transportation Research Interdisciplinary Perspectives
 Transportation Research Part B: Methodological
 Transportation Research Part C: Emerging Technologies
+"Transportation Research, Part A: Policy and Practice"
+"Transportation Research, Part E: Logistics and Transportation Review"
 Transportmetrica B
 Transylvanian Review of Administrative Sciences
 Travail Humain
 Travail et Emploi
+"Travail, Genre et Societes"
+"Trees, Forests and People"
 Trimestre Economico
 Triple Helix
 TripleC
@@ -4479,7 +4896,11 @@ Value in Health Regional Issues
 Vascular Cell
 Venture Capital
 Vestnik MGIMO-Universiteta
+"Vestnik Samarskogo Gosudarstvennogo Tekhnicheskogo Universiteta, Seriya Fiziko-Matematicheskie Nauki"
+"Vestnik Sankt-Peterburgskogo Universiteta, Prikladnaya Matematika, Informatika, Protsessy Upravleniya"
 Vestnik Sankt-Peterburgskogo Universiteta. Ekonomika
+"Vestnik Tomskogo Gosudarstvennogo Universiteta - Upravlenie, Vychislitel'naya Tekhnika i Informatika"
+"Vestnik Udmurtskogo Universiteta: Matematika, Mekhanika, Komp'yuternye Nauki"
 Video-Assisted Thoracic Surgery
 Vierteljahresschrift fur Sozial und Wirtschaftsgeschichte
 Vietnam Journal of Computer Science
@@ -4494,6 +4915,7 @@ Vision
 Visions for Sustainability
 Visitor Studies
 Visual Computer
+"Visual Computing for Industry, Biomedicine, and Art"
 Visual Informatics
 Vlakna a Textil
 Voluntas
@@ -4529,7 +4951,10 @@ Wireless Networks
 Wireless Personal Communications
 Wireless Power Transfer
 Wirtschaftsdienst
+"Work Organisation, Labour and Globalisation"
 Work and Occupations
+"Work, Aging and Retirement"
+"Work, Employment and Society"
 World Bank Economic Review
 World Bank Research Observer
 World Competition
@@ -4540,9 +4965,12 @@ World Development Perspectives
 World Economics
 World Economy
 World Economy and International Relations
+"World Journal of Entrepreneurship, Management and Sustainable Development"
+"World Journal of Science, Technology and Sustainable Development"
 World Leisure Journal
 World Oil
 World Patent Information
+"World Review of Entrepreneurship, Management and Sustainable Development"
 World Review of Political Economy
 World Scientific Handbook in Financial Economics Series
 World Scientific Series in Finance
@@ -4561,22 +4989,24 @@ Yearbook of Antitrust and Regulatory Studies
 Yingyong Kexue Xuebao/Journal of Applied Sciences
 Young Consumers
 Yuanzineng Kexue Jishu/Atomic Energy Science and Technology
+Yugoslav Journal of Operations Research
 ZEMCH International Conference
 ZWF Zeitschrift für Wirtschaftlichen Fabrikbetrieb
 Zbornik radova Ekonomskog fakulteta u Rijeci / Proceedings of Rijeka Faculty of Economics
 Zeitschrift fur Arbeits- und Organisationspsychologie
 Zeitschrift fur Evaluation
-Zeitschrift fur Technikfolgenabschatzung in Theorie und Praxis / Journal for Technology Assessment in Theory and Practice
+Zeitschrift fur Technikfolgenabschatzung in Theorie und Praxis / Journal for Technology Assessment in Theory a
 Zeitschrift fur Unternehmensgeschichte
 Zeitschrift fur Wirtschaftsgeographie
 Zeitschrift fur die gesamte Versicherungswissenschaft
 Zhongbei Daxue Xuebao (Ziran Kexue Ban)/Journal of North University of China (Natural Science Edition)
 Zhongguo Dianli/Electric Power
 Zhongguo Kexue Jishu Kexue/Scientia Sinica Technologica
-Zhongguo Shiyou Daxue Xuebao (Ziran Kexue Ban)/Journal of China University of Petroleum (Edition of Natural Science)
+Zhongguo Shiyou Daxue Xuebao (Ziran Kexue Ban)/Journal of China University of Petroleum (Edition of Natural Sc
 Zhournal Novoi Ekonomicheskoi Associacii /Journal of the New Economic Association
 Zhurnal Belorusskogo Gosudarstvennogo Universiteta. Matematika. Informatika
 Zidonghua Xuebao/Acta Automatica Sinica
+"e-Prime - Advances in Electrical Engineering, Electronics and Energy"
 e-Review of Tourism Research
 eJournal of Tax Research
 eJournal of eDemocracy and Open Government
