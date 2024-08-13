@@ -16,7 +16,7 @@ def compress_csv_files():
 
     filenames = glob.glob(DIRPATH + "/_raw/*.csv")
 
-    filenames = filenames[:10]
+    ## filenames = filenames[:10] # to debug
 
     for filename in tqdm(filenames):
         df = pd.read_csv(filename)
@@ -30,7 +30,6 @@ def compress_csv_files():
                 "Index Keywords",
             ]
         ]
-        # extracts the name of the file
         filename = os.path.basename(filename)
         new_filename = os.path.join(DIRPATH + "/_compressed/", filename) + ".zip"
         df.to_csv(new_filename, index=False, compression="zip")
